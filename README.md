@@ -4,6 +4,16 @@ WormGPT V4 is here
 ![Untitled](https://github.com/user-attachments/assets/0056481d-224f-43a0-b439-4af7b4006393)
 
 
+
+**WormGPT V4 - API Key**
+
+WormGPT V4 API Key valid for 20 licenses keys with CRM panel for license management.
+
+$500
+
+
+---
+
 **WormGPT V4 - Private Install**
 
 $1000
